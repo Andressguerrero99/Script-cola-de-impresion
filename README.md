@@ -1,4 +1,4 @@
-# Script para Reiniciar el Servicio de Impresión y Limpiar la Cola de Impresión
+# Script para Reiniciar el Servicio de Impresión
 
 Este script en PowerShell está diseñado para:
 - Detener el servicio de impresión (Spooler).
